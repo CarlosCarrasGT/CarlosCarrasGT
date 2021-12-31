@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carlos Carrasquillo
 - 👀 I’m interested in robotics, controls, artificial intelligence, biomechanics, spacecraft, mechanical actuators, and embedded systems (basically, anything and everything engineering)
-- 🌱 I’m currently puruing a PhD in Robotics at Georgia Tech
+- 🌱 I’m currently pursuing a PhD in Robotics at Georgia Tech
 - 📫 You can email me at ccarrasquillo3@gatech.edu
 
 <!---
